@@ -110,3 +110,9 @@ Utilized libraries and versions:
 - **GLFW**
 - **Glad**
 - **GLM**
+
+
+Target operating system: Windows (64-bit)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/J3xmOxF0B_E/0.jpg)](https://youtu.be/J3xmOxF0B_E)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/HJ4vcf8csIU/0.jpg)](https://youtu.be/HJ4vcf8csIU)
